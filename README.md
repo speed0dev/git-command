@@ -8,7 +8,7 @@ git 명령어 정리
 
 ## Repository
 
-- [mvnrepository](https://mvnrepository.com/)
+- [mvnrepository](https://mvnrepository.com/){:target="_blank"}
 
 ## Git 학습
 
