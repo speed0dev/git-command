@@ -21,6 +21,13 @@ git 명령어 정리
 
 ```
 
+## Git Reset
+
+- https://fierycoding.tistory.com/40
+
+
 ### markDown 설명
 
 https://techstock.biz/Markdown/MyFavorite/
+
+
