@@ -26,6 +26,11 @@ git 명령어 정리
 - https://fierycoding.tistory.com/40
 - https://hsp0418.tistory.com/123
 
+
+git log 
+
+대문자 q 빠져나오기
+
 ### markDown 설명
 
 https://techstock.biz/Markdown/MyFavorite/
