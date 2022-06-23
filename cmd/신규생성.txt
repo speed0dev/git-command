@@ -1,7 +1,3 @@
-신규생성 시 처리
-
-
-
 1. 신규생성 - 작업 처리
 
 
@@ -31,7 +27,14 @@
 > git commit -m "comment"
 > git push origin 브런치이름
 
+> git pull origin 브런치이름
 
+ (orgin 브런치 이름 생략하기)
+ fatal: 
+ git push --set-upstream origin test2  <-- 내용이 표시될 경우
+
+> git push -u origin main
+> git push
 
 ----------------------------------------------
 [기타]
@@ -42,3 +45,7 @@
 
  (branch 생성 main)
 > git branch main master
+
+
+
+[참고] https://www.daleseo.com/git-push/
