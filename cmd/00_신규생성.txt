@@ -26,6 +26,8 @@
 > git remote add origin https://주소
 > git pull origin 브런치이름		// remote 브런치 받음
 > git checkout -b 브런치이름		// 브런치 이동
+> git branch  // 브런치 확인
+
 > git add .
 > git commit -m "comment"
 > git push origin 브런치이름
