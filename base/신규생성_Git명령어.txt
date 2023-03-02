@@ -1,5 +1,7 @@
 
 
+
+----------------------------------------------------
 신규생성시  Sample 
 ===================================================
 
@@ -22,4 +24,16 @@ git push -u origin main
 …or import code from another repository
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+[origin 삭제 시]
+-------------------------------------------
+[remote] 확인 명령어
+> git remote -v  ( 확인 명령어 )
+
+> git remote rm origin  ( 삭제 명령어 )
+
+> git remote -v  ( 다시 확인 )
+
+
+
 
