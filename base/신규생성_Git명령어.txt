@@ -25,15 +25,13 @@ git push -u origin main
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
+===========================================
 [origin 삭제 시]
 -------------------------------------------
 [remote] 확인 명령어
 > git remote -v  ( 확인 명령어 )
-
 > git remote rm origin  ( 삭제 명령어 )
-
 > git remote -v  ( 다시 확인 )
-
-
+> git remote add origin https://github.com/speed0dev/html-test01.git (수정)
 
 
